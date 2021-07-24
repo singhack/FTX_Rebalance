@@ -5,10 +5,11 @@
 ccxt  
 pandas  
 matplotlib  
+seaborn
 simplejson  
+ta-libs
 requests  
-
-
+######################
   
 ### Setting ###   
   "LOGFILE":"Logs.log",             #### log file name   <br>
