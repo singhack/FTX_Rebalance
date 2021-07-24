@@ -5,10 +5,10 @@
 ccxt  
 pandas  
 matplotlib  
-seaborn
+seaborn  
 simplejson  
-ta-libs
-requests  
+ta-libs  
+requests    
 ######################
   
 ### Setting ###   
