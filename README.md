@@ -20,7 +20,7 @@ requests
   "threshold_buy":[0.1,0.1,0.1,0.05],                 ### %diff from fix value to buy token   
   "threshold_sell":[0.1,0.1,0.1,0.05],                 ## %diff from fix value to sell token   
   "trigger_stop": [0.2,0.3,0.25,0.5],                 ## %diff from entry_price when starts bot     
-  "gap":0.002,                                        ### Gap away from midprice to buy,sell order  !not change!  ,
+  "gap":0.002,                                        ### Gap away from midprice to buy,sell order  !not change!  
   "cd": 60 ,                                          ### cooldown to refresh bot   # ทำงานทุก 1 นาที
   "entry_list": [1.2 ,  47.0 ,9.0 , 0.000020] ,       ## input entry_price if 0 bot refresh check pnl when starts bot # ตั้งบันทึกค่า entry price ถ้าไม่จะเอาราคาปัจจุบันเมือเปิดบอท
   "token_line": "token_line"                          ###  tokenID_Line to nortify trades  ถ้าจะแจ้งเตือนใส่ Token Line ตรงนี้
